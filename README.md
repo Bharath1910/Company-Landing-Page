@@ -11,6 +11,6 @@ This is a frontend project based on product page.
 - Experience gained on
     - flexbox
 
-- Link to the site : [Vercel](https://product-home-page.vercel.app/)
+- Link to the site : [Vercel](https://04-company-landing-page.vercel.app/)
 
 
